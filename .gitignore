@@ -11,7 +11,3 @@
 *.lai
 *.la
 *.a
-
-*.obj
-*.exe
-*.tlog
